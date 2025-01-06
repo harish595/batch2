@@ -1,0 +1,56 @@
+what is datatypes?
+- datatypes is used to define what kind of data used in the variable.
+
+types of datatypes:-
+1.primitive data types
+- it can store single values.
+- immutable
+- primitive datatypes are:-
+    1.String
+    2.Boolean
+    3.number
+    4.undefined
+    5.null
+    6.bigInt
+    7.symbol
+2.non-primitive datatype
+- it can store multiple values.
+- mutable 
+- non-primitve data types
+    1.class
+    2.objects
+    3.functions
+    4.arrays
+    5.math ,date , json
+
+1.String:- sequence of characters stored within double quotes /single quotes /backticks(template literals ``)
+ex: var username ="Mahesh Babu";
+    let title = 'super star'
+    const networth = `120cr`
+
+    typeof() :- used to define datatype.
+
+2.boolean :- true / false.
+
+3.number:- integers , float , decimal , exponential etc...
+- -2^53-1 to +2^53-1
+ex: - let num =10;
+let num=10.53234;
+let num = 10e4;
+
+4.undefined:- variable is declared but not intitalized witha value .
+ex: - let a;
+    clg(a);
+
+5.null : null is a absence of object  / empty space
+
+what is the return type of "null" - object
+
+
+
+
+
+
+comment in js:-
+1.single line comment (//)
+2.multi - line comment(/**/)
